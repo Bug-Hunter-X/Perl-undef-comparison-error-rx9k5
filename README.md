@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to undef value comparisons and its solution. The bug.pl file shows the incorrect comparison of undef using eq, and bugSolution.pl shows the correct approach using the defined() function.
